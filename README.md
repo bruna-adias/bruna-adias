@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Systems Information student at Federal University of Minas Gerais since 2020. 
+I'm a Information Systems student at Federal University of Minas Gerais since 2020. 
 
 - 🌱 I’m currently learning object-oriented programming with C++.
 
