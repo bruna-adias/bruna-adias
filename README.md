@@ -8,8 +8,7 @@ I'm a Information Systems student at Federal University of Minas Gerais since 20
  <gitStats align="center" style="display: flex">
   <a href = "https://github.com/bruna-adias">
     <img height ="150em"src = "https://github-readme-stats.vercel.app/api?username=bruna-adias&show_icons=true&theme=dracula&hide=stars,issues" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-adias&show_icons=true&theme=dracula&hide=stars,issues" />
-  </a>
+    </a>
  </gitStats>
 
 <!--
