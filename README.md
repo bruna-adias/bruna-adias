@@ -2,8 +2,6 @@
 
 I'm a Information Systems student at Federal University of Minas Gerais since 2020. 
 
-- 🌱 I’m currently learning object-oriented programming with C++.
-
  <!-- GITHUB STATS -->
  <gitStats align="center" style="display: flex">
   <a href = "https://github.com/bruna-adias">
